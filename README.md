@@ -1,4 +1,4 @@
-# vue-3-base
+# vue-3-base-with-json-server
 
 ## Project setup
 ```
@@ -8,6 +8,11 @@ yarn install
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
+```
+
+### Compiles and hot-reloads for development WITH mock json-server
+```
+start:app-with-server
 ```
 
 ### Compiles and minifies for production
