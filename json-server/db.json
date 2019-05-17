@@ -1,16 +1,19 @@
 {
-  "values": [
+  "tasks": [
     {
-      "id": 0,
-      "value": "value 0"
+      "name": "Learn VueJS",
+      "complete": true,
+      "id": 0
     },
     {
-      "id": 1,
-      "value": "value 1"
+      "name": "Implement JSON-Server in a VueJS app",
+      "complete": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "value": "value 2"
+      "name": "Write a blog post",
+      "complete": true,
+      "id": 2
     }
   ]
 }
