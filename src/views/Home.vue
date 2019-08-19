@@ -5,7 +5,7 @@
       <input type="text"
         class="form-field"
         v-model="newTask.name"
-        placeholder="Enter a new task">
+        placeholder="Add New Task">
       <button class="create"
         :disabled="!newTask.name"
         @click="createTask()">ADD TASK</button>
@@ -91,7 +91,7 @@ export default class Home extends Vue {
     border: 1px lightgrey solid;
     font-size: 1.1em;
     &[type=checkbox] {
-      transform: scale(1.5);
+      transform: scale(1);
     }
   }
   .home {

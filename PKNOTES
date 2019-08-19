@@ -1,0 +1,11 @@
+https://spr.com/improving-web-developer-productivity-with-json-server/
+https://github.com/agrgic16/vue-3-base
+https://github.com/typicode/json-server/blob/master/README.md
+
+## run to-do app
+yarn install
+# localhost 8080 or something
+yarn run serve 
+# run both
+npm run start:app-with-server 
+

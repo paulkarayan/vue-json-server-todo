@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link>
+      <img src="./assets/irreng.png" height="30%" width="30%">
     </div>
     <router-view/>
   </div>
