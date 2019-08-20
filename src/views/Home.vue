@@ -3,7 +3,7 @@
 
     <div class="row">
       <input type="text"
-        class="form-field"
+        class="form-field new-task"
         v-model="newTask.name"
         placeholder="Add New Task">
       <button class="create"
