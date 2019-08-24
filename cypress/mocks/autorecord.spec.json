@@ -1,0 +1,34 @@
+{
+  "create and complete a task": [
+    {
+      "url": "http://localhost:8080/sockjs-node/info?t=1566606162805",
+      "method": "GET",
+      "status": 200,
+      "headers": {},
+      "body": null,
+      "response": {
+        "websocket": true,
+        "origins": [
+          "*:*"
+        ],
+        "cookie_needed": false,
+        "entropy": 3060377547
+      }
+    },
+    {
+      "url": "http://192.168.87.65:8080/sockjs-node/info?t=1566606162816",
+      "method": "GET",
+      "status": 200,
+      "headers": {},
+      "body": null,
+      "response": {
+        "websocket": true,
+        "origins": [
+          "*:*"
+        ],
+        "cookie_needed": false,
+        "entropy": 850865789
+      }
+    }
+  ]
+}
