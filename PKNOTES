@@ -16,7 +16,7 @@ npm install cypress --save-dev
 npx cypress open
 # to get video - you must use command line after configuring in cypress.json
 npx cypress run --spec <spec file path>
-npx cypress run --spec /Users/paulkarayan/todo-test-example/cypress/integration/todo.spec.js
+npx cypress run --spec /Users/paulkarayan/todo-test-example/cypress/integration/todo.spec˜.js
 
 
 
